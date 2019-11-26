@@ -1,9 +1,9 @@
-##LeetCode 329.判断子序列
+## LeetCode 329.判断子序列
 
 <br>
-题意: 给s, t两个字符串, 判断s是否是t的字符串
-例如:  s = "abc",   t = "ahbgdc"   
-输出: true
+题意: 给s, t两个字符串, 判断s是否是t的字符串<br>
+例如:  s = "abc",   t = "ahbgdc"<br>   
+输出: true<br>
 
 [具体题目请点击](https://leetcode-cn.com/problems/is-subsequence/)
 <br>
@@ -164,10 +164,10 @@ s[2] == t[3] && dp[1][2]  "a"是"ah"的子串,  所以 "ab" 是 "ahb" 的子串?
 输出: 3("bcd")
 
 这个例子初始化表格
-![avatar](https://images.cnblogs.com/cnblogs_com/zoey686/1592278/o_1911161014382019-11-16%2018-08-22%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+![avatar](https://images.cnblogs.com/cnblogs_com/smuzoey/1600093/o_1911260246421.png)
 
 完整表格
-![avatar](https://images.cnblogs.com/cnblogs_com/zoey686/1592278/o_1911161014322019-11-16%2018-13-45%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
+![avatar](https://images.cnblogs.com/cnblogs_com/smuzoey/1600093/o_1911260246552.png)
 
 
 转移方程式为
