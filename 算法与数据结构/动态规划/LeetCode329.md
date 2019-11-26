@@ -164,11 +164,14 @@ s[2] == t[3] && dp[1][2]  "a"是"ah"的子串,  所以 "ab" 是 "ahb" 的子串?
 输出: 3("bcd")
 
 这个例子初始化表格
+<br>
 ![avatar](https://raw.githubusercontent.com/smuzoey/NotesForInterview/master/%E5%9B%BE%E9%9B%86/LeetCode329_1.png)
+<br>
 
 完整表格
+<br>
 ![avatar](https://raw.githubusercontent.com/smuzoey/NotesForInterview/master/%E5%9B%BE%E9%9B%86/LeetCode329_2.png)
-
+<br>
 
 转移方程式为
 ```
