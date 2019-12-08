@@ -6,3 +6,4 @@
 - [LeetCode 1025.除数博弈](https://github.com/smuzoey/NotesForInterview/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LeetCode1025.md)
 - [LeetCode 329.判断子序列](https://github.com/smuzoey/NotesForInterview/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LeetCode329.md)
 - [LeetCode 53.最大子序列和](https://github.com/smuzoey/NotesForInterview/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LeetCode53.md)
+- [LeetCode 338.比特位计数](https://github.com/smuzoey/NotesForInterview/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/LeetCode338.md)
