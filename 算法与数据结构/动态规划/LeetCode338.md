@@ -22,6 +22,7 @@
 
 <br>
 <br>
+
 ```Java
 class Solution {
     public int[] countBits(int num) {
